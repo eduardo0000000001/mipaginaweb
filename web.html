@@ -1,0 +1,16 @@
+
+<html>
+    <head><tittle><font color="#08e4e1" size="6" face="Papyrus"><center>Men&uacute</center></font></tittle></head>
+    
+<body link="White" vlink="Red" alink="olive" bgcolor="blue"><br>
+  
+    <a name="Indice">
+        <a href="estructurabasica.html"><h1>Estrctura básica y texto</h1></a>
+        <a href="listas.html"><h1>Listas y Líneas</h1></a>
+        <a href="multimedia.html"><h1>Imagenes y Multimedia</h1></a>
+        <a href="hipervinculos.html"><h1>Hiperv&iacutenculos</h1></a>
+        <a href=" tabla.html"><h1>Tablas</h1></a>
+        <a href="tablaspractica.html"><h1>Tablas de Continentes</h1></a>
+    </a>
+</body>
+</html>
